@@ -141,6 +141,16 @@ export const skills = [
         image:
           "https://s3-alpha.figma.com/hub/file/1481185752/fa4cd070-6a79-4e1b-b079-8b9b76408595-cover.png",
       },
+      {
+        name: "Shopify",
+        image:
+          "https://i.pinimg.com/564x/9f/2c/56/9f2c56f4979acbc65a3617c005ee7021.jpg",
+      },
+      {
+        name: "WordPress",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/2048px-WordPress_blue_logo.svg.png",
+      },
     ],
   },
 ];
