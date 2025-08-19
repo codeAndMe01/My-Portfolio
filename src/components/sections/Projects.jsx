@@ -98,7 +98,7 @@ const Projects = ({ openModal, setOpenModal }) => {
   return (
     <Container id="Projects">
       <Wrapper>
-        <Title>Projects</Title>
+        <Title>Major Projects</Title>
         <Desc
           style={{
             marginBottom: "40px",
@@ -115,12 +115,12 @@ const Projects = ({ openModal, setOpenModal }) => {
             ALL
           </ToggleButton> */}
           {/* <Divider /> */}
-          <ToggleButton
+          {/* <ToggleButton
             active={toggle === "web app"}
             onClick={() => setToggle("web app")}
           >
-            WEB APP"S
-          </ToggleButton>
+            
+          </ToggleButton> */}
           {/* <Divider /> */}
           {/* <ToggleButton
             active={toggle === "android app"}
