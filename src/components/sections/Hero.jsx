@@ -250,14 +250,12 @@ const Hero = () => {
                 <SubTitle>{Bio.description}</SubTitle>
               </motion.div>
 
-              <ResumeButton href={Bio.resume} target="_blank">
-                Check Resume
-              </ResumeButton>
+             
             </HeroLeftContainer>
             <HeroRightContainer>
               <motion.div {...headContentAnimation}>
                 <Tilt>
-                  <Img src={HeroImg} alt="Atul Yadav" />
+                  <Img src={HeroImg} alt="Mohd Hasir" />
                 </Tilt>
               </motion.div>
             </HeroRightContainer>
