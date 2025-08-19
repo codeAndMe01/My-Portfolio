@@ -110,7 +110,7 @@ const Footer = () => {
             <InstagramIcon />
           </SocialMediaIcon>
         </SocialMediaIcons>
-        <Copyright>&copy; 2024 Mohd Hasir. All rights reserved.</Copyright>
+        <Copyright>&copy; 2021 Mohd Hasir. All rights reserved.</Copyright>
       </FooterWrapper>
     </FooterContainer>
   );
